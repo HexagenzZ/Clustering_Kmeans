@@ -7,13 +7,9 @@ sayap, paruh jenis kelamin dan juga berat badan masing masing penguin.
 Clustering pada project kali ini digunakan untuk mengelompokkan satu jenis penguin yang
 memiliki kesamaan dalam ukuran tertentu yang nantinya akan terlihat pola apa yang dapat diolah
 dari data yang sudah di clusterisasi oleh model.
-#
-#
-#
+
+<br>
 ![Image](https://github.com/user-attachments/assets/562c6d61-142f-4f09-b7e2-28bddc42bc83)
-#
-#
-#
 
 
 # Requirements
