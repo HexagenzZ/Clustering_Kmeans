@@ -8,6 +8,8 @@ Clustering pada project kali ini digunakan untuk mengelompokkan satu jenis pengu
 memiliki kesamaan dalam ukuran tertentu yang nantinya akan terlihat pola apa yang dapat diolah
 dari data yang sudah di clusterisasi oleh model
 
+     ![Deskripsi gambar](https://t4.ftcdn.net/jpg/12/28/84/35/360_F_1228843596_L72XIxJfziUPgMBG96OQexFGyC2Gm8Qo.jpg)
+
 # Requirements
 
 Untuk menjalankan project ini, karena menggunakan Jupyter Notebook yang kita tahu merupakan IDE python
@@ -17,12 +19,3 @@ python, beberapa library yang harus disediakan ialah :
   * pandas
   * matplotlib
   * scikit-learn
-
-# Glosarium
-
-Pada project kali ini, saya sertakan beberapa hal yang saya pelajari, di antaranya:
-
-## Clustering
-  Ini merupakan bagian dari machine learning yang unsupervised learning, yang mana bertujuan untuk 
-  mengelompokkan data menjadi beberapa kelompok (cluster) berdasarkan kesamaan karakteristik antar
-  data dalam satu cluster dan perbedaan karakteristik antar cluster yang berbeda
