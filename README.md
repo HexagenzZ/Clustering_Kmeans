@@ -9,6 +9,7 @@ memiliki kesamaan dalam ukuran tertentu yang nantinya akan terlihat pola apa yan
 dari data yang sudah di clusterisasi oleh model.
 
 <br>
+
 ![Image](https://github.com/user-attachments/assets/562c6d61-142f-4f09-b7e2-28bddc42bc83)
 
 
