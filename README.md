@@ -8,6 +8,8 @@ Clustering pada project kali ini digunakan untuk mengelompokkan satu jenis pengu
 memiliki kesamaan dalam ukuran tertentu yang nantinya akan terlihat pola apa yang dapat diolah
 dari data yang sudah di clusterisasi oleh model
 
+![Image](https://github.com/user-attachments/assets/562c6d61-142f-4f09-b7e2-28bddc42bc83)
+
 # Requirements
 
 Untuk menjalankan project ini, karena menggunakan Jupyter Notebook yang kita tahu merupakan IDE python
